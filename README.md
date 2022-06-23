@@ -2,4 +2,4 @@
 A Chat Application which has a group chat functionality.
 Login,Registration,ForgotPassword,StartChat,Mutithreading,Networking,JDBC.
 
-Uploading 23-09-18.mp4…
+https://user-images.githubusercontent.com/77955323/175378002-0b4c33be-eaac-4291-96ff-7632fb01a497.mp4
